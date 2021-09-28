@@ -16,31 +16,31 @@ For example, pixel31 indicates the pixel that is in the fourth column from the l
 
 # Labels
 
-Each training and test example is assigned to one of the following labels:
-
-0 T-shirt/top
-1 Trouser
+Each training and test example is assigned to one of the following labels:  
+  
+0 T-shirt/top  
+1 Trouser  
 2 Pullover
-3 Dress
-4 Coat
-5 Sandal
-6 Shirt
-7 Sneaker
-8 Bag
-9 Ankle boot
-
+3 Dress  
+4 Coat  
+5 Sandal  
+6 Shirt  
+7 Sneaker  
+8 Bag  
+9 Ankle boot  
+  
 # TL;DR
-Each row is a separate image
-Column 1 is the class label.
-Remaining columns are pixel numbers (784 total).
-Each value is the darkness of the pixel (1 to 255)
+Each row is a separate image  
+Column 1 is the class label.  
+Remaining columns are pixel numbers (784 total).  
+Each value is the darkness of the pixel (1 to 255)  
 
 # Acknowledgements
-Original dataset was downloaded from <https://github.com/zalandoresearch/fashion-mnist>
-Dataset was converted to CSV with this script: <https://pjreddie.com/projects/mnist-in-csv/>
+Original dataset was downloaded from <https://github.com/zalandoresearch/fashion-mnist>  
+Dataset was converted to CSV with this script: <https://pjreddie.com/projects/mnist-in-csv/>  
 
 -----------------------------------------------------------------------------------------------------------------
 
-The code is copy in [click this](https://www.kaggle.com/juneyao666/fashion-mnist-classification-machine-learning/notebook)
-This task is implemented by different classifier
+The code is copy in [click this](https://www.kaggle.com/juneyao666/fashion-mnist-classification-machine-learning/notebook)  
+This task is implemented by different classifier  
 However I can not implement the XGBoost Classifier by unknown reason so I comment out the code
