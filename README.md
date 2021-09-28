@@ -20,7 +20,7 @@ Each training and test example is assigned to one of the following labels:
   
 0 T-shirt/top  
 1 Trouser  
-2 Pullover
+2 Pullover  
 3 Dress  
 4 Coat  
 5 Sandal  
